@@ -2,8 +2,10 @@
 
 Technologies used:
 
-Kotlin
-Retrofit
+Language: Kotlin
+
+Web services Library: Retrofit
+
 Rx --> RxJava, RxKotlin, RXBinding
 
 Architecture:
