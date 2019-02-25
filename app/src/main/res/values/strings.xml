@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViperBaseProjects</string>
+    <string name="login_screen">Login</string>
+    <string name="private_screen">Zona privada</string>
+</resources>
